@@ -1,0 +1,3 @@
+interface Departement {
+    double getBudget();
+}
